@@ -1,0 +1,1 @@
+"C:\Users\ADMINI~1\instalz\firebase-tools-instant-win.exe" "C:\snapshot\firepit\node_modules\npm\bin\npm-cli" --script-shell=C:\Users\Administrator\.cache\firebase\runtime/shell.bat --globalconfig=C:\Users\Administrator\.cache\firebase\runtime\npmrc --scripts-prepend-node-path=auto "$@"
